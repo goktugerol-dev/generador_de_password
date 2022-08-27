@@ -5,8 +5,8 @@ Es un generador de password codigo abierto y seguro.
 <h3> Como utilizar? </h3>
 <h4> Linux, Mac, Windows </h4>
 
-1) Descarga el archivo
-2) En terminal vete al directorio ( cd filename/filename...)
+1) Descarga el archivo. (Para que sea más practico, puedes cambiar el nombre de folder con algo más corto.)
+2) En terminal vete al directorio ( cd filename/filename...).
 3) Inicia el program 
         python3 main.py
 4) Sigue las instrucciones de program, cuando la contraseña esta generado, copia y pega a donde necesita utilizar.
@@ -22,7 +22,7 @@ ge_dev@yahoo.com </h4>
 <h3> How to use? </h3>
 <h4> Linux, Mac, Windows </h4>
 
-1) Download the archive
+1) Download the archive. (To make it easier, you can change the folder name with something shorter.)
 2) From the terminal, go to directory (cd filename/filename...)
 3) Run the program
         python3 main.py
