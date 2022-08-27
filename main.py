@@ -1,3 +1,7 @@
+# Generador de password seguro y  codigo abierto
+# Desarollado por Goktug Erol
+# ge_dev@yahoo.com
+
 import string
 import random
 
@@ -6,7 +10,6 @@ letras = list(string.ascii_letters)
 digits = list(string.digits)
 special_char = list("!@#$%^&*()_-/?¿")
 caracteres = list(string.ascii_letters + string.digits + "!@#$%^&*()_-/?¿")
-
 
 def gen_rand_pas():
 
