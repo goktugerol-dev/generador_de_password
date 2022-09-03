@@ -1,6 +1,15 @@
-# Generador de password seguro y  codigo abierto
-# Desarollado por Goktug Erol
-# ge_dev@yahoo.com
+print("[\033[1;32;40m ************** V-DOCS **************\n")
+print("-------------________---------------")
+print("          .\\//.||.//\\//\\         ")
+print ("-_-_-_-_-_- L≡GACY C0D≡ -_-_-_-_-_-")
+print("|||  legacy_c0d3@protonmail.com  |||")
+print("     --------------------------     ")
+print(" \/\/\ ===  Lucas Villius ===\/\/\/ ")
+print("                                    ")
+print("                                    ")
+print("                                    ")
+print("                                    ")
+print("                                    ")
 
 import string
 import random
