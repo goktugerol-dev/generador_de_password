@@ -2,7 +2,7 @@
 # Generador de Password Codigo Abierto 
 Es un generador de password codigo abierto y seguro.
 
-<h3> Como utilizar? </h3>
+<h3> ¿Cómo utilizar? </h3>
 <h4> Linux, Mac, Windows </h4>
 
 1) Descarga el archivo. (Para que sea más practico, puedes cambiar el nombre de folder con algo más corto.)
