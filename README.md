@@ -11,10 +11,6 @@ Es un generador de password codigo abierto y seguro.
         python3 main.py
 4) Sigue las instrucciones de program, cuando la contraseña esta generado, copia y pega a donde necesita utilizar.
 
-<h3 align=center> 
-Developer: Goktug Erol </h4>
-<h4 align=center>
-ge_dev@yahoo.com </h4>
 
 # 🇺🇸 English
 # An open source and safe password generator.
@@ -27,8 +23,3 @@ ge_dev@yahoo.com </h4>
 3) Run the program
         python3 main.py
 4) Follow the instructions given by the program, when the password is generated, copy and paste where you need to use.
-
-<h3 align=center> 
-Developer: Goktug Erol </h4>
-<h4 align=center>
-ge_dev@yahoo.com </h4>
